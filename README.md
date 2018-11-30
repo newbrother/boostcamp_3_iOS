@@ -57,6 +57,7 @@
 #### 기능 
 - 영화 포스터를 터치하면 포스터를 전체화면에서 볼 수 있습니다.
 
+-
 <img src="screenios.gif" aligned="center" width=50%>
 
 
