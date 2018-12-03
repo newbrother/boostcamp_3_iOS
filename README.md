@@ -222,4 +222,4 @@ contents: "한국형 영화입니다~이런류좋아하시는분은무조건재�
 
 
 # 기타
-- 과제구현 질문은 [Issues탭](https://github.com/code-squad/boost-camp-3-ios/issues)에 등록해주시면 답변드립니다.
+- 과제구현 질문은 [Issues탭](https://github.com/boostcamp-connect/boostcamp_3_iOS/issues)에 등록해주시면 답변드립니다.
