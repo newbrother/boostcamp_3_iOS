@@ -122,6 +122,7 @@ date: "2017-11-15",
 - Sub URI `/movie`
 - HTTP Method `GET`
 - Request Parameters
+
 |이름|타입|비고|
 |---|---|---|
 | id | String |영화 고유 ID|
